@@ -5,7 +5,6 @@
 **AI와 함께 개발 서적을 분석하고 정리하는 연구소**
 
 [![GitHub](https://img.shields.io/badge/GitHub-dev--book--lab-181717?style=flat&logo=github)](https://github.com/dev-book-lab)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-book-lab&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
