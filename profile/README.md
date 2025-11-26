@@ -4,49 +4,26 @@
 
 **AI와 함께 개발 서적을 분석하고 정리하는 연구소**
 
-[![GitHub](https://img.shields.io/badge/GitHub-dev--book--lab-181717?style=flat&logo=github)](https://github.com/dev-book-lab)
+<br/>
+
+> *"Read → Analyze → Practice → Document → Repeat"*
+
+개발 서적의 핵심 개념을 AI와 함께 **깊이 있게 분석**하고,  
+실전에 **바로 적용**할 수 있는 형태로 재구성합니다.
 
 </div>
 
 ---
 
-## 🎯 Mission
-```
-📖 Read → 🤖 Analyze → 💻 Practice → 📝 Document
-```
-
-개발 서적의 핵심 개념을 AI와 함께 **깊이 있게 분석**하고,  
-실전에 **바로 적용**할 수 있는 형태로 재구성합니다.
-
 ## 📚 Current Studies
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-      <br/>
-      <b>Modern Java in Action</b>
-      <br/>
-      <a href="https://github.com/dev-book-lab/modern-java-in-action">📖 Go to repository</a>
-      <br/>
-      <sub>자바 8+ 함수형 프로그래밍</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Coming-Soon-gray?style=for-the-badge" alt="Coming Soon"/>
-      <br/>
-      <b>Next Book</b>
-      <br/>
-      <sub>준비 중...</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Coming-Soon-gray?style=for-the-badge" alt="Coming Soon"/>
-      <br/>
-      <b>Next Book</b>
-      <br/>
-      <sub>준비 중...</sub>
-    </td>
-  </tr>
-</table>
+| 📖 Book | 🏷️ Topics | 🔗 Link |
+|---------|----------|---------|
+| **Modern Java in Action** | 자바 8+ 함수형 프로그래밍, 스트림 API, 람다 | [📂 Repository](https://github.com/dev-book-lab/modern-java-in-action) |
+
+<sub>💡 다음 책은 학습 완료 후 선정 예정</sub>
+
+<br/>
 
 ## 🛠️ Study Method
 ```mermaid
@@ -55,68 +32,51 @@ graph LR
     B --> C[💭 Deep Dive]
     C --> D[💻 Practice]
     D --> E[📝 Document]
-    E --> F[🔄 Review]
-    style A fill:#e1f5ff
-    style B fill:#fff5e1
-    style C fill:#ffe1f5
-    style D fill:#e1ffe1
-    style E fill:#f5e1ff
-    style F fill:#ffe1e1
+    E --> A
+    
+    style A fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
+    style B fill:#fff3e0,stroke:#ef6c00,stroke-width:2px
+    style C fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+    style D fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+    style E fill:#fff8e1,stroke:#fbc02d,stroke-width:2px
 ```
 
 | Step | Description |
 |------|-------------|
-| 📖 **Read** | 책 내용을 꼼꼼히 학습 |
-| 🤖 **Analyze** | AI(Claude)와 대화하며 개념 분석 |
-| 💭 **Deep Dive** | 궁금한 점을 질문하고 깊이 파고들기 |
-| 💻 **Practice** | 예제 코드 작성 및 실습 |
-| 📝 **Document** | 이해한 내용을 나만의 언어로 정리 |
-| 🔄 **Review** | 반복 학습 및 개선 |
+| 📖 **Read** | 책 내용을 정독하며 핵심 개념 파악 |
+| 🤖 **Analyze** | AI(Claude)와 대화하며 개념의 본질 분석 |
+| 💭 **Deep Dive** | "왜?"라는 질문을 통해 원리 심층 탐구 |
+| 💻 **Practice** | 실제 코드로 검증 및 변형 실습 |
+| 📝 **Document** | 나만의 언어로 재해석하여 정리 |
+
+<br/>
 
 ## 💡 Philosophy
 
 <div align="center">
 
-> *"단순히 정리하는 것이 아니라,*  
-> *AI와 대화하며 깊이 이해하고,*  
-> *나만의 언어로 재해석합니다."*
+> **"단순한 요약은 AI도 할 수 있습니다.**  
+> **우리는 AI와 대화하며 얻은 통찰(Insight)을 기록합니다."**
 
 </div>
 
 ### Why AI-Assisted Learning?
 
-- 🎯 **즉각적인 피드백**: 궁금한 점을 바로 질문하고 답을 얻습니다
-- 🔍 **다각도 분석**: 하나의 개념을 여러 관점에서 이해합니다
-- 💬 **대화형 학습**: 단순 암기가 아닌 이해 중심의 학습
-- 📊 **맞춤형 설명**: 내 수준에 맞는 설명과 예제
+- 🎯 **즉각적 피드백** - 궁금한 점을 바로 질문하고 답을 얻습니다
+- 🔍 **다각도 분석** - 하나의 개념을 여러 관점에서 이해합니다
+- 💬 **대화형 학습** - 단순 암기가 아닌 이해 중심의 학습
+- 📊 **맞춤형 설명** - 내 수준에 맞는 설명과 예제
+
+<br/>
 
 ## 🔗 About
 
 <div align="center">
 
-**Learning through dialogue with AI**
-
-*깊이 있는 이해를 위한 실험적 학습 여정*
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/dev-book-lab?style=social)](https://github.com/dev-book-lab)
-
-</div>
-
----
-
-<div align="center">
-
-### 📬 Contact & Links
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-book-lab)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lee038129@naver.com)
+*AI와 대화하며 기술을 깊이 이해하는 개발자의 학습 기록*
 
 <br/>
 
 **⭐️ 도움이 되셨다면 Star를 눌러주세요!**
-
-<sub>Last updated: 2024</sub>
 
 </div>
