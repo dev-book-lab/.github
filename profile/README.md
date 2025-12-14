@@ -20,7 +20,7 @@
 | 📖 Book | 🏷️ Topics | 🔗 Link |
 |---------|----------|---------|
 | **Modern Java in Action** | 자바 8+ 함수형 프로그래밍, 스트림 API, 람다 | [📂 Repository](https://github.com/dev-book-lab/modern-java-in-action) |
-| **오브젝트 (Objects)** | 코드로 이해하는 객체지향 설계, 역할/책임/협력 | [📂 Repository](./object) |
+| **오브젝트 (Objects)** | 코드로 이해하는 객체지향 설계, 역할/책임/협력 | [📂 Repository](https://github.com/dev-book-lab/object) |
 
 <sub>💡 다음 책은 학습 완료 후 선정 예정</sub>
 
