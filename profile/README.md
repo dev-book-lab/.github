@@ -15,14 +15,15 @@
 
 ---
 
-## 📚 Current Studies
+## 📚 Projects & Studies
 
-| 📖 Book | 🏷️ Topics | 🔗 Link |
+| 📌 Title | 📝 Key Topics | 🔗 Link |
 |---------|----------|---------|
+| **Java API Reference** | **자바 표준 라이브러리 원리**, 실무 패턴, 성능 최적화, 실행 가능한 예제 | [📂 Repository](https://github.com/dev-book-lab/java-api-reference) |
 | **Modern Java in Action** | 자바 8+ 함수형 프로그래밍, 스트림 API, 람다 | [📂 Repository](https://github.com/dev-book-lab/modern-java-in-action) |
 | **오브젝트 (Objects)** | 코드로 이해하는 객체지향 설계, 역할/책임/협력 | [📂 Repository](https://github.com/dev-book-lab/object) |
 
-<sub>💡 다음 책은 학습 완료 후 선정 예정</sub>
+<sub>💡 지속적으로 새로운 학습 프로젝트가 추가될 예정입니다.</sub>
 
 <br/>
 
