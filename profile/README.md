@@ -21,6 +21,7 @@
 |:---------|:----------|:---------|
 | **Java API Reference** | **자바 표준 라이브러리 원리**, 실무 패턴, 성능 최적화, 실행 가능한 예제 | [📂 Repository](https://github.com/dev-book-lab/java-api-reference) |
 | **Modern Java in Action** | 자바 8+ 함수형 프로그래밍, 스트림 API, 람다 | [📂 Repository](https://github.com/dev-book-lab/modern-java-in-action) |
+| **JVM Deep Dive** | **JVM 내부 구조 완전 해부**, 클래스 로딩/GC/JIT/메모리 모델, CPU 레벨 분석, 성능 튜닝 | [📂 Repository](https://github.com/dev-book-lab/jvm-deep-dive) |
 | **오브젝트 (Objects)** | 코드로 이해하는 객체지향 설계, 역할/책임/협력 | [📂 Repository](https://github.com/dev-book-lab/object) |
 | **Java Design Patterns** | **47가지 디자인 패턴**, GoF/아키텍처/동시성 패턴, 실전 Before/After 비교 | [📂 Repository](https://github.com/dev-book-lab/java-design-patterns) |
 | **Git In-Depth** | **Git 내부 구조(Object Model)**, 복잡한 충돌 해결, Rebase 심화, 실전 트러블슈팅 | [📂 Repository](https://github.com/dev-book-lab/git-in-depth) |
