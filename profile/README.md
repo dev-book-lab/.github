@@ -24,6 +24,7 @@
 | **JVM Deep Dive** | **JVM 내부 구조 완전 해부**, 클래스 로딩/GC/JIT/메모리 모델, CPU 레벨 분석, 성능 튜닝 | [📂 Repository](https://github.com/dev-book-lab/jvm-deep-dive) |
 | **오브젝트 (Objects)** | 코드로 이해하는 객체지향 설계, 역할/책임/협력 | [📂 Repository](https://github.com/dev-book-lab/object) |
 | **Java Design Patterns** | **47가지 디자인 패턴**, GoF/아키텍처/동시성 패턴, 실전 Before/After 비교 | [📂 Repository](https://github.com/dev-book-lab/java-design-patterns) |
+| **Unit Testing** | **단위 테스트 설계 원칙**, Mocking 전략(Stub/Spy/Fake), 안티패턴 분석, 실전 Before/After | [📂 Repository](https://github.com/dev-book-lab/unit-testing) |
 | **Docker Deep Dive** | **Namespaces/Cgroups/UnionFS**, 이미지 최적화, 네트워킹/보안 원리, 실전 트러블슈팅 | [📂 Repository](https://github.com/dev-book-lab/docker-deep-dive) |
 | **Git In-Depth** | **Git 내부 구조(Object Model)**, 복잡한 충돌 해결, Rebase 심화, 실전 트러블슈팅 | [📂 Repository](https://github.com/dev-book-lab/git-in-depth) |
 
