@@ -25,6 +25,10 @@
 | **오브젝트 (Objects)** | 코드로 이해하는 객체지향 설계, 역할/책임/협력 | [📂 Repository](https://github.com/dev-book-lab/object) |
 | **Java Design Patterns** | **47가지 디자인 패턴**, GoF/아키텍처/동시성 패턴, 실전 Before/After 비교 | [📂 Repository](https://github.com/dev-book-lab/java-design-patterns) |
 | **Unit Testing** | **단위 테스트 설계 원칙**, Mocking 전략(Stub/Spy/Fake), 안티패턴 분석, 실전 Before/After | [📂 Repository](https://github.com/dev-book-lab/unit-testing) |
+| **Spring Core Deep Dive** | **IoC 컨테이너 완전 해부**, DI 내부 동작, Bean 생명주기, AOP/Proxy 구현 원리, SpEL, 이벤트 시스템 (51개 문서) | [📂 Repository](https://github.com/dev-book-lab/spring-core-deep-dive) |
+| **Spring Data & Transaction** | **Spring Data JPA 내부 구조**, 트랜잭션 관리, Hibernate 통합, 쿼리 성능 튜닝, Connection Pool (45개 문서) | [📂 Repository](https://github.com/dev-book-lab/spring-data-transaction) |
+| **Spring Boot Internals** | **Auto-configuration 내부 동작**, 스타트업 프로세스, Property 관리, Actuator, 내장 서버 구성 (45개 문서) | [📂 Repository](https://github.com/dev-book-lab/spring-boot-internals) |
+| **Spring MVC Deep Dive** | **DispatcherServlet 완전 분해**, HandlerMapping/Adapter, ArgumentResolver, ExceptionHandler, Interceptor/Filter, Async (45개 문서) | [📂 Repository](https://github.com/dev-book-lab/spring-mvc-deep-dive) |
 | **Docker Deep Dive** | **Namespaces/Cgroups/UnionFS**, 이미지 최적화, 네트워킹/보안 원리, 실전 트러블슈팅 | [📂 Repository](https://github.com/dev-book-lab/docker-deep-dive) |
 | **Git In-Depth** | **Git 내부 구조(Object Model)**, 복잡한 충돌 해결, Rebase 심화, 실전 트러블슈팅 | [📂 Repository](https://github.com/dev-book-lab/git-in-depth) |
 
