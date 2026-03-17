@@ -29,6 +29,9 @@
 | **Spring Data & Transaction** | **Spring Data JPA 내부 구조**, 트랜잭션 관리, Hibernate 통합, 쿼리 성능 튜닝, Connection Pool (45개 문서) | [📂 Repository](https://github.com/dev-book-lab/spring-data-transaction) |
 | **Spring Boot Internals** | **Auto-configuration 내부 동작**, 스타트업 프로세스, Property 관리, Actuator, 내장 서버 구성 (45개 문서) | [📂 Repository](https://github.com/dev-book-lab/spring-boot-internals) |
 | **Spring MVC Deep Dive** | **DispatcherServlet 완전 분해**, HandlerMapping/Adapter, ArgumentResolver, ExceptionHandler, Interceptor/Filter, Async (45개 문서) | [📂 Repository](https://github.com/dev-book-lab/spring-mvc-deep-dive) |
+| **Spring Cloud Deep Dive** | **분산 시스템 내부 완전 해부**, Config Server/@RefreshScope, Eureka Heartbeat, Gateway 필터 체인, Circuit Breaker 상태 전이, 분산 추적 (40개 문서) | [📂 Repository](https://github.com/dev-book-lab/spring-cloud-deep-dive) |
+| **Spring Security Deep Dive** | **FilterChainProxy 완전 분해**, AuthenticationManager → ProviderManager → UserDetailsService 체인, JWT/SecurityContext, OAuth2 Authorization Code Flow (45개 문서) | [📂 Repository](https://github.com/dev-book-lab/spring-security-deep-dive) |
+| **Spring Batch Deep Dive** | **ChunkOrientedTasklet 완전 분해**, ItemReader/Processor/Writer 체인, Job 재시작·재시도 메커니즘, Partitioning 병렬 분산 처리 (35개 문서) | [📂 Repository](https://github.com/dev-book-lab/spring-batch-deep-dive) |
 | **Docker Deep Dive** | **Namespaces/Cgroups/UnionFS**, 이미지 최적화, 네트워킹/보안 원리, 실전 트러블슈팅 | [📂 Repository](https://github.com/dev-book-lab/docker-deep-dive) |
 | **Git In-Depth** | **Git 내부 구조(Object Model)**, 복잡한 충돌 해결, Rebase 심화, 실전 트러블슈팅 | [📂 Repository](https://github.com/dev-book-lab/git-in-depth) |
 
