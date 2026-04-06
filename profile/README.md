@@ -32,6 +32,11 @@
 | **Spring Security Deep Dive** | **FilterChainProxy 완전 분해**, AuthenticationManager → ProviderManager → UserDetailsService 체인, JWT/SecurityContext, OAuth2 Authorization Code Flow (45개 문서) | [📂 Repository](https://github.com/dev-book-lab/spring-security-deep-dive) |
 | **Spring Batch Deep Dive** | **ChunkOrientedTasklet 완전 분해**, ItemReader/Processor/Writer 체인, Job 재시작·재시도 메커니즘, Partitioning 병렬 분산 처리 (35개 문서) | [📂 Repository](https://github.com/dev-book-lab/spring-batch-deep-dive) |
 | **Spring Cloud Deep Dive** | **분산 시스템 내부 완전 해부**, Config Server/@RefreshScope, Eureka Heartbeat, Gateway 필터 체인, Circuit Breaker 상태 전이, 분산 추적 (40개 문서) | [📂 Repository](https://github.com/dev-book-lab/spring-cloud-deep-dive) |
+| **Database Internals Deep Dive** | **InnoDB Buffer Pool/B-Tree 내부 구조**, MVCC·Undo Log, Gap Lock·Phantom Read, 격리 수준 완전 분해 (40개 문서) | [📂 Repository](https://github.com/dev-book-lab/database-internals) |
+| **MySQL Deep Dive** | **실행계획 분석·튜닝**, 서브쿼리→세미조인 변환, 파티션 프루닝, Binary Log 포맷, Replication Lag 원인 분석 (38개 문서) | [📂 Repository](https://github.com/dev-book-lab/mysql-deep-dive) |
+| **Redis Deep Dive** | **Redis 내부 자료구조 완전 분해**, 지속성(RDB/AOF), 클러스터·센티넬, Pub/Sub vs Stream, 성능 튜닝 (37개 문서) | [📂 Repository](https://github.com/dev-book-lab/redis-deep-dive) |
+| **Kafka Deep Dive** | **파티션·ISR·리밸런싱 완전 분해**, acks/min.insync.replicas 트레이드오프, Exactly-Once 구현 원리, Consumer Lag 진단 (37개 문서) | [📂 Repository](https://github.com/dev-book-lab/kafka-deep-dive) |
+| **Network Deep Dive** | **TCP 3-Way Handshake·TIME_WAIT**, TLS 1.3 핸드쉐이크, HTTP/2 멀티플렉싱·HOL Blocking, 패킷 레벨 분석 (37개 문서) | [📂 Repository](https://github.com/dev-book-lab/network-deep-dive) |
 | **Docker Deep Dive** | **Namespaces/Cgroups/UnionFS**, 이미지 최적화, 네트워킹/보안 원리, 실전 트러블슈팅 | [📂 Repository](https://github.com/dev-book-lab/docker-deep-dive) |
 | **Git In-Depth** | **Git 내부 구조(Object Model)**, 복잡한 충돌 해결, Rebase 심화, 실전 트러블슈팅 | [📂 Repository](https://github.com/dev-book-lab/git-in-depth) |
 
