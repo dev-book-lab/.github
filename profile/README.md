@@ -67,6 +67,46 @@
 ---
 
 <details>
+<summary>&nbsp;🏛️ &nbsp;<b>Architecture & Design</b> &nbsp;&nbsp;<img src="https://img.shields.io/badge/5_repos-e8f4f8?style=flat-square&color=7b68ee"/></summary>
+
+<br/>
+
+| &nbsp; | 📌 Title | 📝 Key Topics |
+|:--:|:---------|:----------|
+| 1 | [**Architecture Patterns Deep Dive**](https://github.com/iq-dev-lab/architecture-patterns-deep-dive) | **Layered → Hexagonal → Clean Architecture 완전 분해**, DIP 기반 개선, Uncle Bob 4원칙 `39docs` |
+| 2 | [**DDD Deep Dive**](https://github.com/iq-dev-lab/ddd-deep-dive) | **Bounded Context 전략 설계**, Aggregate·Value Object·Domain Event 완전 분해, 도메인 테스트 전략 `43docs` |
+| 3 | [**CQRS + Event Sourcing Deep Dive**](https://github.com/iq-dev-lab/cqrs-event-sourcing-deep-dive) | **CQS 원칙·비동기 Command 완전 분해**, Event Store·Projection 원리, 이벤트 소싱 통합 흐름 `40docs` |
+| 4 | [**MSA Deep Dive**](https://github.com/iq-dev-lab/msa-deep-dive) | **모놀리스→MSA 전환 원칙**, Saga 분산 트랜잭션·보상 패턴, 서비스 경계 설계, Circuit Breaker `41docs` |
+| 5 | [**System Design Deep Dive**](https://github.com/iq-dev-lab/system-design-deep-dive) | **대규모 시스템 설계 원칙**, URL 단축기·YouTube·검색 자동완성·라이브 스트리밍 케이스 스터디 `42docs` |
+
+<br/>
+
+</details>
+
+---
+
+<details>
+<summary>&nbsp;🖥️ &nbsp;<b>Infrastructure & DevOps</b> &nbsp;&nbsp;<img src="https://img.shields.io/badge/7_repos-e8f4f8?style=flat-square&color=2496ed"/></summary>
+
+<br/>
+
+| &nbsp; | 📌 Title | 📝 Key Topics |
+|:--:|:---------|:----------|
+| 1 | [**Linux for Backend Deep Dive**](https://github.com/iq-dev-lab/linux-for-backend-deep-dive) | **커널 I/O·메모리 관리 완전 분해**, 프로세스·스레드·스케줄러, 시스템콜·epoll·시그널 `38docs` |
+| 2 | [**Network Deep Dive**](https://github.com/iq-dev-lab/network-deep-dive) | **TCP 3-Way Handshake·TIME_WAIT**, TLS 1.3 핸드쉐이크, HTTP/2 멀티플렉싱·HOL Blocking `37docs` |
+| 3 | [**Git In-Depth**](https://github.com/iq-dev-lab/git-in-depth) | **Git 내부 구조(Object Model)**, 복잡한 충돌 해결, Rebase 심화, 실전 트러블슈팅 |
+| 4 | [**Docker Deep Dive**](https://github.com/iq-dev-lab/docker-deep-dive) | **Namespaces/Cgroups/UnionFS**, 이미지 최적화, 네트워킹/보안 원리, 실전 트러블슈팅 |
+| 5 | [**Kubernetes Deep Dive**](https://github.com/iq-dev-lab/kubernetes-deep-dive) | **Control Plane 완전 분해**, etcd·API Server·Scheduler·kubelet 내부 동작, Pod 스케줄링·HPA `40docs` |
+| 6 | [**Observability Deep Dive**](https://github.com/iq-dev-lab/observability-deep-dive) | **Java Agent 바이트코드 조작 원리**, Prometheus 수집 메커니즘, OpenTelemetry 분산 추적 `35docs` |
+| 7 | [**CI/CD Pipeline Deep Dive**](https://github.com/iq-dev-lab/cicd-deep-dive) | **GitHub Actions Runner 격리·Job 스케줄링 완전 분해**, Docker 레이어 캐시 원리, ArgoCD Reconciliation Loop, 카나리 배포·Argo Rollouts AnalysisTemplate `40docs` |
+
+<br/>
+
+</details>
+
+---
+
+<details>
 <summary>&nbsp;🗄️ &nbsp;<b>Database</b> &nbsp;&nbsp;<img src="https://img.shields.io/badge/6_repos-e8f4f8?style=flat-square&color=336791"/></summary>
 
 <br/>
@@ -95,25 +135,6 @@
 |:--:|:---------|:----------|
 | 1 | [**Kafka Deep Dive**](https://github.com/iq-dev-lab/kafka-deep-dive) | **파티션·ISR·리밸런싱 완전 분해**, acks/min.insync.replicas 트레이드오프, Exactly-Once 구현 원리 `37docs` |
 | 2 | [**RabbitMQ Deep Dive**](https://github.com/iq-dev-lab/rabbitmq-deep-dive) | **Exchange 라우팅 완전 분해**, Quorum Queue 클러스터링, Outbox + Publisher Confirm 완전 보장 패턴 `38docs` |
-
-<br/>
-
-</details>
-
----
-
-<details>
-<summary>&nbsp;🏛️ &nbsp;<b>Architecture & Design</b> &nbsp;&nbsp;<img src="https://img.shields.io/badge/5_repos-e8f4f8?style=flat-square&color=7b68ee"/></summary>
-
-<br/>
-
-| &nbsp; | 📌 Title | 📝 Key Topics |
-|:--:|:---------|:----------|
-| 1 | [**Architecture Patterns Deep Dive**](https://github.com/iq-dev-lab/architecture-patterns-deep-dive) | **Layered → Hexagonal → Clean Architecture 완전 분해**, DIP 기반 개선, Uncle Bob 4원칙 `39docs` |
-| 2 | [**DDD Deep Dive**](https://github.com/iq-dev-lab/ddd-deep-dive) | **Bounded Context 전략 설계**, Aggregate·Value Object·Domain Event 완전 분해, 도메인 테스트 전략 `43docs` |
-| 3 | [**CQRS + Event Sourcing Deep Dive**](https://github.com/iq-dev-lab/cqrs-event-sourcing-deep-dive) | **CQS 원칙·비동기 Command 완전 분해**, Event Store·Projection 원리, 이벤트 소싱 통합 흐름 `40docs` |
-| 4 | [**MSA Deep Dive**](https://github.com/iq-dev-lab/msa-deep-dive) | **모놀리스→MSA 전환 원칙**, Saga 분산 트랜잭션·보상 패턴, 서비스 경계 설계, Circuit Breaker `41docs` |
-| 5 | [**System Design Deep Dive**](https://github.com/iq-dev-lab/system-design-deep-dive) | **대규모 시스템 설계 원칙**, URL 단축기·YouTube·검색 자동완성·라이브 스트리밍 케이스 스터디 `42docs` |
 
 <br/>
 
@@ -159,27 +180,6 @@
 | &nbsp; | 📌 Title | 📝 Key Topics |
 |:--:|:---------|:----------|
 | 1 | [**Performance Testing Deep Dive**](https://github.com/iq-dev-lab/performance-testing-deep-dive) | **k6 부하 테스트·p95/p99 정량 측정**, USE 방법론 병목 특정, async-profiler Flame Graph 코드 레벨 분석, Connection Pool 공식, GC Stop-The-World 측정 `39docs` |
-
-<br/>
-
-</details>
-
----
-
-<details>
-<summary>&nbsp;🖥️ &nbsp;<b>Infrastructure & DevOps</b> &nbsp;&nbsp;<img src="https://img.shields.io/badge/7_repos-e8f4f8?style=flat-square&color=2496ed"/></summary>
-
-<br/>
-
-| &nbsp; | 📌 Title | 📝 Key Topics |
-|:--:|:---------|:----------|
-| 1 | [**Linux for Backend Deep Dive**](https://github.com/iq-dev-lab/linux-for-backend-deep-dive) | **커널 I/O·메모리 관리 완전 분해**, 프로세스·스레드·스케줄러, 시스템콜·epoll·시그널 `38docs` |
-| 2 | [**Network Deep Dive**](https://github.com/iq-dev-lab/network-deep-dive) | **TCP 3-Way Handshake·TIME_WAIT**, TLS 1.3 핸드쉐이크, HTTP/2 멀티플렉싱·HOL Blocking `37docs` |
-| 3 | [**Git In-Depth**](https://github.com/iq-dev-lab/git-in-depth) | **Git 내부 구조(Object Model)**, 복잡한 충돌 해결, Rebase 심화, 실전 트러블슈팅 |
-| 4 | [**Docker Deep Dive**](https://github.com/iq-dev-lab/docker-deep-dive) | **Namespaces/Cgroups/UnionFS**, 이미지 최적화, 네트워킹/보안 원리, 실전 트러블슈팅 |
-| 5 | [**Kubernetes Deep Dive**](https://github.com/iq-dev-lab/kubernetes-deep-dive) | **Control Plane 완전 분해**, etcd·API Server·Scheduler·kubelet 내부 동작, Pod 스케줄링·HPA `40docs` |
-| 6 | [**Observability Deep Dive**](https://github.com/iq-dev-lab/observability-deep-dive) | **Java Agent 바이트코드 조작 원리**, Prometheus 수집 메커니즘, OpenTelemetry 분산 추적 `35docs` |
-| 7 | [**CI/CD Pipeline Deep Dive**](https://github.com/iq-dev-lab/cicd-deep-dive) | **GitHub Actions Runner 격리·Job 스케줄링 완전 분해**, Docker 레이어 캐시 원리, ArgoCD Reconciliation Loop, 카나리 배포·Argo Rollouts AnalysisTemplate `40docs` |
 
 <br/>
 
