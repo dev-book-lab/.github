@@ -1,4 +1,7 @@
-# 🔍 IQ Dev Lab
+<h1 align="center">
+  <img src="https://api.iconify.design/lucide/server-cog.svg?color=%2300d9ff" width="32" align="center"/>
+  IQ Dev Lab
+</h1>
 
 <div align="center">
 
