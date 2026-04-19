@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**AI와 함께 기술의 본질을 탐구하는 개발자의 딥다이브 연구소**
+**Java 백엔드의 본질을 파고드는 딥다이브 연구소**
 
 <br/>
 
@@ -10,10 +10,14 @@
 
 <br/>
 
-> *"Explore → Analyze → Practice → Document → Repeat"*
+> *"Beyond the docs — into the essence of Java backend."*
 
-공식 문서와 표준 레퍼런스를 AI와 함께 **깊이 있게 분석**하고,  
+공식 문서와 표준 레퍼런스를 **깊이 있게 분석**하고,  
 **왜 이렇게 설계됐는가** 라는 질문으로 기술의 본질을 파헤칩니다.
+
+<br/>
+
+[![IQ Lab Blog](https://img.shields.io/badge/📝_Read_on_IQ_Lab_Blog-iq--proof.github.io-00d9ff?style=for-the-badge&logo=astro&logoColor=white)](https://iq-proof.github.io)
 
 </div>
 
@@ -194,7 +198,7 @@
 
 ```mermaid
 graph LR
-    A{{🔍 Explore}} -->|레퍼런스 탐구| B{{🤖 Analyze}}
+    A{{🔍 Explore}} -->|레퍼런스 탐구| B{{📖 Analyze}}
     B -->|본질 분석| C{{💭 Deep Dive}}
     C -->|왜? 집요하게| D{{💻 Practice}}
     D -->|코드 검증| E{{📝 Document}}
@@ -210,7 +214,7 @@ graph LR
 | Step | Description |
 |------|-------------|
 | 🔍 **Explore** | 공식 문서·표준 레퍼런스에서 탐구할 개념 선정 |
-| 🤖 **Analyze** | AI(Claude)와 대화하며 개념의 본질 분석 |
+| 📖 **Analyze** | 레퍼런스와 소스 코드를 분해하며 개념의 본질 분석 |
 | 💭 **Deep Dive** | "왜?"라는 질문을 통해 설계 원리 심층 탐구 |
 | 💻 **Practice** | 실제 코드·실험으로 검증 및 변형 실습 |
 | 📝 **Document** | 나만의 언어로 재해석하여 체계적으로 정리 |
@@ -221,17 +225,16 @@ graph LR
 
 <div align="center">
 
-> **"단순한 요약은 AI도 할 수 있습니다.**  
-> **우리는 AI와 대화하며 얻은 통찰(Insight)을 기록합니다."**
+> **"표면적인 사용법이 아닌, 본질을 증명하는 기록."**
 
 </div>
 
-### Why AI-Assisted Deep Dive?
+### Why Deep Dive?
 
-- 🎯 **즉각적 피드백** - 궁금한 점을 바로 질문하고 본질에 다가갑니다
-- 🔍 **다각도 분석** - 하나의 개념을 여러 관점에서 해부합니다
-- 💬 **대화형 탐구** - 단순 암기가 아닌 "왜?"를 중심으로 한 학습
-- 📊 **설계 원리 추적** - 표면적 사용법이 아닌 내부 동작과 설계 의도 파악
+- 🎯 **내부 메커니즘** - 공식 문서가 말해주지 않는 구현 원리까지 추적
+- 🔍 **다각도 분석** - 하나의 개념을 여러 관점에서 해부
+- ❓ **"왜?" 중심** - 단순 사용법이 아닌 설계 의도 탐구
+- 📊 **원리 → 트레이드오프 → 설계 → 구현 → 검증** - 일관된 탐구 흐름
 
 <br/>
 
@@ -239,7 +242,12 @@ graph LR
 
 <div align="center">
 
-*AI와의 문답으로 기술의 본질을 탐구하는 개발자의 딥다이브 기록*
+*Java 백엔드의 본질을 파고드는 개발자의 딥다이브 기록*
+
+<br/>
+
+정제된 결과물은 [**IQ Lab Blog**](https://iq-proof.github.io)에 발행됩니다.  
+정리(Theorem)와 증명(Proof)으로 구성된 딥다이브 글을 만날 수 있어요.
 
 <br/>
 
